@@ -1,0 +1,8 @@
+{
+  "name": "Message Sweeper",
+  "version": "1.0.0",
+  "description": "snipes messages .",
+  "author": "rejeeli",
+  "license": "MIT",
+  "main": "index.js"
+}
